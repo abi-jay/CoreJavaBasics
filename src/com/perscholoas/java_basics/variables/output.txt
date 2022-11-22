@@ -1,0 +1,11 @@
+1.Int Sum	8
+2.Double Sum	4.87
+3.Int double sum	6.59
+4a.Int divide	1
+4b.Decimal	1.6666666666666667
+5a.Double divide	2.8046875
+5b.Cast to int	2
+6a.Int divide	1
+6b.Cast to double	1.2
+7.Constant	6.7
+8.Total Sales	 33.891000
