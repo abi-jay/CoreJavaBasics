@@ -1,0 +1,42 @@
+3. Binary version of 2:	10
+3a. Shift operator on 	2	10
+3a. After left shift by 1, Integer:	4
+3a. After left shift by 1, Binary:	100
+3b. Shift operator on 	9	1001
+3b. After left shift by 1, Integer:	18
+3b. After left shift by 1, Binary:	10010
+3c. Shift operator on 	17	10001
+3c. After left shift by 1, Integer:	34
+3c. After left shift by 1, Binary:	100010
+3d. Shift operator on 	88	1011000
+3d. After left shift by 1, Integer:	176
+3d. After left shift by 1, Binary:	10110000
+4. Binary version of 150:	10010110
+4a. Shift operator on 	150	10010110
+4a. After right shift by 2, Integer:	37
+4a. After right shift by 2, Binary:	100101
+4b. Shift operator on 	225	11100001
+4b. After right shift by 2, Integer:	56
+4b. After right shift by 2, Binary:	111000
+4c. Shift operator on 	1555	11000010011
+4c. After right shift by 2, Integer:	388
+4c. After right shift by 2, Binary:	110000100
+4d. Shift operator on 	32456	111111011001000
+4d. After right shift by 2, Integer:	8114
+4d. After right shift by 2, Binary:	1111110110010
+5a. After Bitwise AND, Integer:	23
+5a. After Bitwise AND, Binary:	10111
+5b. After Bitwise OR, Integer:	1
+5b. After Bitwise OR, Binary:	1
+6. Posfix increment of 20:	21
+7a.Increment by +=1:	22
+7a.Increment by +=1:	23
+7a.Increment by +=1:	24
+7b.Increment by postfix++:	25
+7b.Increment by postfix++:	26
+7b.Increment by postfix++:	27
+7c.Increment by ++prefix:	28
+7c.Increment by ++prefix:	29
+7c.Increment by ++prefix:	30
+8a.Increment by ++prefix:	14
+8a.Increment by postfix++:	13
