@@ -1,0 +1,15 @@
+1. Implicit Type Casting
+1a. Sum of two numbers: 60.5
+1b. Subtraction of two numbers: 19.4
+2.Automatic Type Promotion
+2.Result: 626.7784146484375
+3.Explicit Type Casting
+Double value 100.04
+Long value 100
+Int value 100
+3a.Conversion of int to byte.
+i = 257 b = 1
+3b.Conversion of double to int.
+d = 323.142 b = 60.5
+3c.Conversion of double to byte.
+d = 323.142 b = 67
