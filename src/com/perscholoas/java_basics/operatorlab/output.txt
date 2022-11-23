@@ -1,0 +1,63 @@
+1.Assignment Operators:
+j is : 5
+k is : 5
+j is : 10
+k is : 10
+
+2.Arithmetic Operators
++ operator resulted in 15
+- operator resulted in 5
+* operator resulted in 50
+/ operator resulted in 2
+% operator resulted in 0
+Postfix ++ operator resulted in 10
+Prefix ++ operator resulted in 6
+Unary operator resulted in -11
+tooBig becomes -2147483648
+tooSmall becomes 2147483647
+4.0 / 0.0 Infinity
+-4.0 / 0.0 -Infinity
+0.0 / 0.0 NaN
+d1 is 1.0
+d2 iss 1.5
+
+3.Relational Operators
+x > y : true
+x < y : false
+x >= y : true
+x <= y : false
+x == y : false
+x != y : true
+variable1 = 50
+variable2 = 100
+variable3 = 50
+variable1 == variable2: false
+variable1 == variable3: true
+
+4.Logical Operators
+x1 & y1 : false
+x1 && y1 : false
+x1 | y1 : true
+x1 || y1: true
+x1 ^ y1 : true
+!x1 : false
+
+5.Bitwise Operators
+x & y : 8
+x | y : 63
+x ^ y : 55
+~x : -59
+x << y : 475136
+x >> y : 0
+
+6.Ternary Operators
+Age is: 18
+age is Less than 100
+
+6.Unary Operators
+=+1: 1
+--: 0
+++: 1
+-: -1
+bool: false
+!bool: true
